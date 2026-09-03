@@ -11,7 +11,6 @@
 **English:** You can find me on the platforms below.  
 **فارسی:** از طریق شبکه‌های اجتماعی زیر می‌توانید با من در ارتباط باشید.
 
-| Platform / پلتفرم | Link / لینک |
-| :---: | :--- |
+| ## Socials:Platform / پلتفرم | 
 | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshia.nrimany06)
 |[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/code_and_projects)
