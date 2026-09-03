@@ -13,7 +13,5 @@
 
 | Platform / پلتفرم | Link / لینک |
 | :---: | :--- |
-| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
-**Instagram** | [instagram.com/yourusername](https://www.instagram.com/arshia.nrimany06) |
-| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-**Telegram** | [t.me/yourusername](https://t.me/@code_and_projects) |
+| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arshia.nrimany06)
+|[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/code_and_projects)
