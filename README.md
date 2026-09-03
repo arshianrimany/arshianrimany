@@ -13,5 +13,7 @@
 
 | Platform / پلتفرم | Link / لینک |
 | :---: | :--- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/48px-Instagram_icon.png" width="20" height="20" alt="Instagram Icon"/> **Instagram** | [instagram.com/yourusername](https://www.instagram.com/arshia.nrimany06) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/48px-Telegram_logo.svg.png" width="20" height="20" alt="Telegram Icon"/> **Telegram** | [t.me/yourusername](https://t.me/@code_and_projects) |
+| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+**Instagram** | [instagram.com/yourusername](https://www.instagram.com/arshia.nrimany06) |
+| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+**Telegram** | [t.me/yourusername](https://t.me/@code_and_projects) |
