@@ -1,8 +1,8 @@
 <!-- Header or Introduction -->
 # 👋 Hello, I'm Arshia! / سلام، من ارشیام!
 
- I'm a passionate learner starting my journey in web development with The Odin Project.  
- من یک فرد مشتاق هستم و تازه شروع کردم به یادگیری برنامه‌نویسی وب با The Odin Project.
+ I'm a passionate learner starting my journey in web development.  
+ من یک فرد مشتاق هستم و تازه شروع کردم به یادگیری برنامه‌نویسی وب.
 
 ---
 
